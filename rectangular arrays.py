@@ -19,3 +19,5 @@ def array_circle(x, y, rad,  r, c, lr, dr, dc, dl):
     arr2 = c1.ArrayRectangular(r, c, lr, dr+rad*2, dc+rad*2, dl)    
 array_circle(100, 100, 100, 3, 3, 1, 50, 100, 0)
 
+
+
